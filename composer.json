@@ -1,0 +1,6 @@
+{
+  "name": "10pies/char-enc",
+  "description": "Character encoding utilities",
+  "type": "project",
+  "keywords": ["strings", "char", "i18n", "encoding", "transliteration"]
+}
