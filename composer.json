@@ -1,7 +1,8 @@
 {
   "name": "10pies/char-enc",
   "description": "Character encoding utilities",
-  "type": "project",
+  "type": "library",
+  "version": "0.1.0",
   "keywords": ["strings", "char", "i18n", "encoding", "transliteration"],
   "require": {
     "php": ">=5.6"
